@@ -25,12 +25,12 @@ This software was made for personal **education** and **sandbox testing**
 
 
 
-Hawkish-Granner is a tool created with the goal of promoting ethical behavior online. 
+Aorus-Grabber is a tool created with the goal of promoting ethical behavior online. 
 Its purpose is to help individuals detect and report potential security,
 threats and unethical practices by website owners and service providers. 
 Our aim is to encourage transparency, accountability, and responsibility among online actors, 
 and to empower users to make informed decisions about their online activities. 
-Hawkish-Team is not intended for malicious purposes or to harm innocent parties, 
+Aorus-Team is not intended for malicious purposes or to harm innocent parties, 
 and we strongly condemn any illegal or unethical actions that may result from its use. 
 We hope that this tool will contribute to a safer and more ethical online environment for everyone.
 ---
@@ -194,7 +194,7 @@ v4: 2023-14-04 Builder/Script update
 + Builder code optimisation
 + Builder New Style
 + Patch Chrome Cookies decryption error
-+ Overlay Hawkish on discord
++ Overlay Aorus on discord
 + Process Hided in window task manager
 + Patch Builder name error
 
@@ -228,7 +228,7 @@ v6.1: 2023-01-08 Script
 
 v7: 2023-05-31 Web Panel
 + You can create your own api
-+ Web Panel with FREE with Hawkish.eu
++ Web Panel with FREE with Aorus.eu
 ```
 
 
