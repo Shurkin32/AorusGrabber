@@ -49,7 +49,7 @@ We hope that this tool will contribute to a safer and more ethical online enviro
 
 ## <a id="setup"></a> 📁 〢 Setting up
 1. Install [Python]
-2. Click on buildAORUS.bat [start.bat]
+2. Click on buildAORUS.exe 
 3. Complete the configuration
 4. You have your .exe/.py file enjoy
 
